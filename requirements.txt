@@ -1,0 +1,12 @@
+python-telegram-bot>=21.0,<23
+Flask>=3.0,<4
+Pillow>=10.0,<12
+fonttools>=4.50,<5
+fpdf2>=2.8,<3
+uharfbuzz>=0.40,<1
+PyPDF2>=3.0,<4
+PyMuPDF>=1.24,<2
+pytesseract>=0.3.10,<1
+pdfplumber>=0.11,<1
+python-dotenv>=1.0,<2
+requests>=2.31,<3
